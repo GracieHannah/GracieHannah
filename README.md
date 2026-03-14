@@ -48,6 +48,8 @@ Now I build **machine learning models and analytical systems** that help organiz
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/XGBoost-ff4d6d?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/LightGBM-22c55e?style=for-the-badge" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/CatBoost-facc15?style=for-the-badge&logoColor=black" alt="CatBoost"/>
@@ -138,7 +140,7 @@ Regression modeling project to identify optimal drilling regions using profit si
 # 🤝 Connect With Me
 
 📧 Email: GracieHannahSchmidt@gmail.com  
-🔗 LinkedIn: [REPLACE_WITH_LINKEDIN_URL](https://www.linkedin.com/in/gracehannahschmidt/)  
+🔗 LinkedIn: [GracieHannahSchmidt](https://www.linkedin.com/in/gracehannahschmidt/)  
 💻 GitHub: [GracieHannah](https://github.com/GracieHannah)
 
 ---
