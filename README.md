@@ -18,7 +18,7 @@
 
 I’m a **Data Scientist specializing in machine learning, customer analytics, and predictive modeling**.
 
-Before transitioning into data science, I spent **10+ years running a client-based business**, where I developed strong experience in **customer behavior, retention strategy, and operational decision-making**.
+Before transitioning into data science, I spent **10+ years running a client-based wellness business**, where I developed strong experience in **customer behavior, retention strategy, and operational decision-making**.
 
 Now I build **machine learning models and analytical systems** that help organizations make smarter business and product decisions.
 
@@ -32,40 +32,22 @@ Now I build **machine learning models and analytical systems** that help organiz
 ---
 
 # 🛠 Tech Stack
-
-### Languages & Query Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash"/>
-</p>
-
-### Data Science & Machine Learning
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
-</p>
-
-### Visualization & Analytics
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45" alt="Plotly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45" alt="Tableau"/>
-</p>
-
-### Development Tools
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
-</p>
-
-### Gradient Boosting Tools
-<p align="center">
   <img src="https://img.shields.io/badge/XGBoost-ff4d6d?style=for-the-badge" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/LightGBM-22c55e?style=for-the-badge" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/CatBoost-facc15?style=for-the-badge&logoColor=black" alt="CatBoost"/>
