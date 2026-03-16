@@ -91,13 +91,10 @@ Regression modeling project to identify optimal drilling regions using profit si
 
 <div align="center">
 
-<h2>🌈 Fun Facts</h2>
+<h2>🌈 Fun Fact</h2>
 
 <p>
-• I love uncovering patterns hidden in complex datasets<br>
-• I built my own business before transitioning into data science<br>
-• I’m especially interested in behavioral analytics and decision science<br>
-• I enjoy turning messy data into clear, meaningful insight
+I love **being outside!!!** Backpacking, snowboarding, surfing, hiking, anything that takes me and my family on an outdoor adventure! <br>  
 </p>
 
 </div>
