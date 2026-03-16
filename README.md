@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Grace%20Schmidt&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Product%20Analytics%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn&color=0:ff0080,20:ff4d4d,40:ffb347,60:ffff66,80:66ff99,100:3399ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Grace%20Schmidt&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Product%20Analytics%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn&color=0:f9a8d4,20:fdba74,40:fde68a,60:bbf7d0,80:bfdbfe,100:d8b4fe"/>
 </p>
 
 <div align="center">
@@ -52,12 +52,15 @@ I am a data science professional with a strong foundation in machine learning, e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/XGBoost-ff4d6d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LightGBM-22c55e?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CatBoost-facc15?style=for-the-badge&logoColor=black"/>
-</p>
+<p align="center">
 
+</a>
+
+<img src="https://img.shields.io/badge/XGBoost-d8b4fe?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/LightGBM-86efac?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/CatBoost-fde68a?style=for-the-badge&logoColor=black"/>
+
+</p>
 </div>
 
 ---
@@ -80,7 +83,7 @@ Regression modeling project to identify optimal drilling regions using profit si
 • Recommended the highest expected profit region
 </p>
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-ff4d6d?style=for-the-badge&logo=github)](https://github.com/GracieHannah/oil_wells)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-f9a8d4?style=for-the-badge&logo=github)](https://github.com/GracieHannah/oil_wells)
 
 </div>
 
@@ -105,20 +108,15 @@ Regression modeling project to identify optimal drilling regions using profit si
 
 <h2>🤝 Connect With Me</h2>
 
-<p>
-📧 Email: GracieHannahSchmidt@gmail.com  
+<p align="center">
+
+[![Email](https://img.shields.io/badge/Email-contact-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GracieHannahSchmidt@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grace%20Schmidt-86efac?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracehannahschmidt/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-GracieHannah-f9a8d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GracieHannah)
+
 </p>
-
-<p>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/gracehannahschmidt/">GracieHannahSchmidt</a>
-</p>
-
-<p>
-💻 GitHub: <a href="https://github.com/GracieHannah">GracieHannah</a>
-</p>
-
-</div>
-
 ---
 
 <p align="center">
