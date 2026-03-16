@@ -80,9 +80,7 @@ Regression modeling project to identify optimal drilling regions using profit si
 • Recommended the highest expected profit region
 </p>
 
-<p>
-<a href="REPLACE_WITH_REPO_LINK">🔗 View Project</a>
-</p>
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-ff4d6d?style=for-the-badge&logo=github)](https://github.com/GracieHannah/oil_wells)
 
 </div>
 
