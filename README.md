@@ -8,6 +8,7 @@
 
 <p>
 Data Scientist with a background in entrepreneurship and operations, passionate about machine learning, product analytics, and uncovering patterns that drive better decisions.
+🌲 I'm passionate about outdoor recreation and using data science to improve how people explore nature while supporting a healthier planet.
 </p>
 
 <p>
