@@ -93,8 +93,15 @@ Regression modeling project to identify optimal drilling regions using profit si
 
 <h2>🌈 Fun Fact</h2>
 
-<p>
-I love **being outside!!!** Backpacking, snowboarding, surfing, hiking, anything that takes me and my family on an outdoor adventure! <br>  
+<p align="center">
+
+🌲 <b>I love being outside!!!</b>
+
+⛰ Backpacking • 🏂 Snowboarding • 🌊 Surfing • 🥾 Hiking  
+🏊 Swimming • 🪣 Playing in the mud  
+
+✨ Anything that takes me and my family on an outdoor adventure!
+
 </p>
 
 </div>
