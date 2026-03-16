@@ -2,149 +2,127 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Grace%20Schmidt&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Product%20Analytics%20%7C%20Machine%20Learning&descAlignY=58&animation=fadeIn&color=0:ff0080,20:ff4d4d,40:ffb347,60:ffff66,80:66ff99,100:3399ff"/>
 </p>
 
-<h3 align="center">Hi, I'm Grace 👋</h3>
+<div align="center">
 
-<p align="center">
-  Data Scientist with a background in entrepreneurship and operations, passionate about machine learning, product analytics, and uncovering patterns that drive better decisions.
+<h3>Hi, I'm Grace 👋</h3>
+
+<p>
+Data Scientist with a background in entrepreneurship and operations, passionate about machine learning, product analytics, and uncovering patterns that drive better decisions.
 </p>
 
-<p align="center">
-  🌈 Curious mind • Pattern seeker • Builder of data-driven insights
+<p>
+🌈 Curious mind • Pattern seeker • Builder of data-driven insights
 </p>
 
----
-
-# 🧠 About Me
-
-I’m a **Data Scientist specializing in machine learning, customer analytics, and predictive modeling**.
-
-Before transitioning into data science, I spent **10+ years running a client-based wellness business**, where I developed strong experience in **customer behavior, retention strategy, and operational decision-making**.
-
-Now I build **machine learning models and analytical systems** that help organizations make smarter business and product decisions.
-
-### What I enjoy working on
-- Product analytics
-- Customer behavior modeling
-- Machine learning systems
-- Data-driven decision making
-- Discovering patterns in complex systems
+</div>
 
 ---
 
-# 🛠 Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45" alt="Plotly"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45" alt="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-ff4d6d?style=for-the-badge" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-22c55e?style=for-the-badge" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/CatBoost-facc15?style=for-the-badge&logoColor=black" alt="CatBoost"/>
+<div align="center">
+
+<h3>About Me</h3>
+
+<p>
+I am a data science professional with a strong foundation in machine learning, exploratory data analysis, and predictive modeling using Python. My background includes entrepreneurship and wellness business management, where I developed expertise in customer behavior analysis, operations, and strategic decision-making. From studying human anatomy in the Washington State University cadaver lab to working as a lifeguard responsible for swimmer safety, many of my experiences have required focus, analytical thinking, and performing well in high-pressure situations. I enjoy solving complex problems and uncovering insights from data. I’m excited to contribute these strengths to organizations that use data to improve products, systems, and real-world outcomes.
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 📊 Telecom Customer Churn Prediction
-Machine learning model predicting telecom customer churn using CatBoost and LightGBM.
-
-**Highlights**
-- Achieved **ROC-AUC of 0.93**
-- Engineered behavioral and billing features
-- Identified key drivers of churn for targeted retention strategies
-
-🔗 [View Project](REPLACE_WITH_REPO_LINK)
+</div>
 
 ---
 
-## 🧠 Computer Vision Age Verification
-Convolutional neural network estimating customer age for retail compliance verification.
+<div align="center">
 
-**Highlights**
-- Built CNN using TensorFlow/Keras
-- Achieved **MAE ~7.6 years**
-- Evaluated model error in real-world checkout scenarios
+<h2>🛠 Tech Stack</h2>
 
-🔗 [View Project](REPLACE_WITH_REPO_LINK)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-ff4d6d?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-22c55e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CatBoost-facc15?style=for-the-badge&logoColor=black"/>
+</p>
+
+</div>
 
 ---
 
-## 🛢 Oil Well Profit Prediction
+<div align="center">
+
+<h2>🛢 Featured Project</h2>
+
+<h3>Oil Well Profit Prediction</h3>
+
+<p>
 Regression modeling project to identify optimal drilling regions using profit simulation and risk analysis.
+</p>
 
-**Highlights**
-- Built predictive models for oil reserve volume
-- Used bootstrapping simulations to estimate profit risk
-- Recommended the highest expected profit region
+<p><b>Highlights</b></p>
 
-🔗 [View Project](REPLACE_WITH_REPO_LINK)
+<p>
+• Built predictive models for oil reserve volume<br>
+• Used bootstrapping simulations to estimate profit risk<br>
+• Recommended the highest expected profit region
+</p>
+
+<p>
+<a href="REPLACE_WITH_REPO_LINK">🔗 View Project</a>
+</p>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GracieHannah&show_icons=true&theme=radical" alt="GitHub stats"/>
+<h2>🌈 Fun Facts</h2>
+
+<p>
+• I love uncovering patterns hidden in complex datasets<br>
+• I built my own business before transitioning into data science<br>
+• I’m especially interested in behavioral analytics and decision science<br>
+• I enjoy turning messy data into clear, meaningful insight
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracieHannah&layout=compact&theme=radical" alt="Top languages"/>
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GracieHannah&theme=radical" alt="Profile details graph"/>
-</p>
+<h2>🤝 Connect With Me</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GracieHannah&theme=radical" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GracieHannah&theme=radical" alt="Most commit language"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GracieHannah/GracieHannah/output/github-contribution-grid-snake-rainbow.svg" alt="Rainbow snake animation"/>
-</p>
-
----
-
-# 🌈 Fun Facts
-
-- I love uncovering patterns hidden in complex datasets
-- I built my own business before transitioning into data science
-- I’m especially interested in behavioral analytics and decision science
-- I enjoy turning messy data into clear, meaningful insight
-
----
-
-# 🤝 Connect With Me
-
+<p>
 📧 Email: GracieHannahSchmidt@gmail.com  
-🔗 LinkedIn: [GracieHannahSchmidt](https://www.linkedin.com/in/gracehannahschmidt/)  
-💻 GitHub: [GracieHannah](https://github.com/GracieHannah)
+</p>
+
+<p>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/gracehannahschmidt/">GracieHannahSchmidt</a>
+</p>
+
+<p>
+💻 GitHub: <a href="https://github.com/GracieHannah">GracieHannah</a>
+</p>
+
+</div>
 
 ---
 
 <p align="center">
-  🌈 Thanks for visiting my profile!
+🌈 Thanks for visiting my profile!
 </p>
