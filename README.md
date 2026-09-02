@@ -115,6 +115,8 @@ Regression modeling project to identify optimal drilling regions using profit si
 
 <p align="center">
 
+[![Streamlit Portfolio](https://img.shields.io/badge/Streamlit-Portfolio-f9a8d4?style=for-the-badge&logo=streamlit&logoColor=white)](https://graciehannah-portfolio.streamlit.app/)
+
 [![Email](https://img.shields.io/badge/Email-contact-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GracieHannahSchmidt@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Grace%20Schmidt-86efac?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracehannahschmidt/)
